@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Datenschutz – Aroko</title>
+  <style>
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+      background-color: #f9f9f9;
+      padding: 20px;
+      color: #333;
+    }
+    h1 {
+      color: #006400;
+    }
+  </style>
+</head>
+<body>
+
+<h1>Datenschutzerklärung</h1>
+
+<p><strong>Letzte Aktualisierung:</strong> 21. Juli 2025</p>
+
+<p>Vielen Dank, dass du die App <strong>Aroko</strong> nutzt. Der Schutz deiner Daten ist uns besonders wichtig – deshalb speichert diese App <strong>keine persönlichen Daten</strong> und überträgt <strong>keine Informationen</strong> an externe Server oder Dritte.</p>
+
+<h2>Welche Daten werden gespeichert?</h2>
+<p>Die App speichert ausschließlich den Spielfortschritt (z. B. Punkte und gelöste Aufgaben) <strong>lokal auf deinem Gerät</strong>. Es werden <strong>keine Daten mit dem Internet geteilt</strong>.</p>
+
+<h2>Verbindung zu Diensten wie Game Center</h2>
+<p>Diese App <strong>verwendet kein Game Center</strong> und ist nicht mit anderen Online-Diensten verbunden.</p>
+
+<h2>Werbung & Tracking</h2>
+<p>Die App ist <strong>komplett werbefrei</strong> und enthält <strong>keine Tracking-Technologien</strong>.</p>
+
+<h2>Kontakt</h2>
+<p>Bei Fragen zum Datenschutz kannst du dich gerne an uns wenden:</p>
+<p><strong>E-Mail:</strong> kontakt@aroko-app.de</p>
+
+<p>Mit der Nutzung dieser App stimmst du dieser Datenschutzerklärung zu.</p>
+
+</body>
+</html>
