@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Privacy Policy – Aroko</title>
+  <style>
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+      background-color: #f9f9f9;
+      padding: 20px;
+      color: #333;
+    }
+    h1 {
+      color: #006400;
+    }
+  </style>
+</head>
+<body>
+
+<h1>Privacy Policy</h1>
+
+<p><strong>Last updated:</strong> July 21, 2025</p>
+
+<p>Thank you for using the <strong>Aroko</strong> app. Your privacy is important to us. This app does <strong>not collect any personal data</strong> and <strong>does not connect to the internet</strong> or third-party services.</p>
+
+<h2>What data is stored?</h2>
+<p>The app only stores your game progress (like points and solved tasks) <strong>locally on your device</strong>. No data is shared online or sent to any server.</p>
+
+<h2>Game Center and online services</h2>
+<p>This app <strong>does not use Game Center</strong> or any other online services.</p>
+
+<h2>Ads & Tracking</h2>
+<p>The app is <strong>completely ad-free</strong> and includes <strong>no tracking technologies</strong>.</p>
+
+<h2>Contact</h2>
+<p>If you have any questions about this privacy policy, feel free to contact us:</p>
+<p><strong>Email:</strong> kontakt@aroko-app.de</p>
+
+<p>By using this app, you agree to this privacy policy.</p>
+
+</body>
+</html>
